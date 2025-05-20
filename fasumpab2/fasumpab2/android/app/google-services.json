@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374036422802",
+    "project_id": "fasumpab2",
+    "storage_bucket": "fasumpab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374036422802:android:e87d64723144b7a4ec464b",
+        "android_client_info": {
+          "package_name": "com.example.fasumpab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGL6bdIfzkZzXajGoquv7TztjNCEET6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
